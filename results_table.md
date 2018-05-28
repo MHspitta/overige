@@ -1,5 +1,6 @@
 Results table
-|---|Algoritmes|
+
+||Algoritmes|
 |Cargo Lijst|Greedy|Hill Climber|Random Greedy|
 |---|---|---|---|
 |Lijst 1 (hoeveelheid)|83|83|83|
